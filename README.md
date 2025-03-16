@@ -1,2 +1,2 @@
-this file coantains some of my new projects of grqaphic designing 
+this file contains some of my new projects of graphic designing 
 hope this is helpful 
